@@ -43,4 +43,7 @@ int main(){
     
     // 5) .data() function gives the starting address of the vector
     cout << "Starting address of the vector : " << my_vec.data() << endl;
-          }
+    
+    return 0;
+
+}
