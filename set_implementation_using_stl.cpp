@@ -39,7 +39,7 @@ int main()
                               }
         cout << endl;
         
-    cout << "The set elements in ascending order : "; 
+    cout << "The set elements in descending order : "; 
     
     for(const auto &e1:my_set2){
         
